@@ -11,6 +11,7 @@ ENV/
 # Jupyter
 .ipynb_checkpoints/
 
+data/
 data/processed/*
 !data/processed/.gitkeep
 
